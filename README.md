@@ -1,6 +1,4 @@
 # emerald-salvage-alpha
-Recovered Site-73 fragments. SCP-XXXX entry partial. Glyphic recursion event suspected
-# emerald-salvage-alpha
 
 Found this while running comparative text structure scans across archived SCP backups flagged for glyphic noise. I shouldn’t have had access. These weren't supposed to be recoverable. Site-73’s Theta sublevel was believed to be a total loss, scrubbed post-event. But not everything was purged.
 
